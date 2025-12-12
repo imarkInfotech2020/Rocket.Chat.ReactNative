@@ -3305,40 +3305,54 @@ exports[`Story Snapshots: Avatar should match snapshot 1`] = `
                         }
                       }
                     >
-                      <ViewManagerAdapter_ExpoImage
-                        borderRadius={4}
-                        containerViewRef={"[React.ref]"}
-                        contentFit="contain"
-                        contentPosition={
-                          {
-                            "left": "50%",
-                            "top": "50%",
-                          }
-                        }
-                        height={36}
-                        nativeViewRef={"[React.ref]"}
-                        onError={[Function]}
-                        onLoad={[Function]}
-                        onLoadStart={[Function]}
-                        onProgress={[Function]}
-                        placeholder={[]}
-                        source={
+                      <View
+                        style={
                           [
                             {
-                              "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                              "transform": [
+                                {
+                                  "translateY": 0,
+                                },
+                              ],
                             },
                           ]
                         }
-                        style={
-                          {
-                            "borderRadius": 4,
-                            "height": 36,
-                            "width": 36,
+                      >
+                        <ViewManagerAdapter_ExpoImage
+                          borderRadius={4}
+                          containerViewRef={"[React.ref]"}
+                          contentFit="contain"
+                          contentPosition={
+                            {
+                              "left": "50%",
+                              "top": "50%",
+                            }
                           }
-                        }
-                        transition={null}
-                        width={36}
-                      />
+                          height={36}
+                          nativeViewRef={"[React.ref]"}
+                          onError={[Function]}
+                          onLoad={[Function]}
+                          onLoadStart={[Function]}
+                          onProgress={[Function]}
+                          placeholder={[]}
+                          source={
+                            [
+                              {
+                                "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                              },
+                            ]
+                          }
+                          style={
+                            {
+                              "borderRadius": 4,
+                              "height": 36,
+                              "width": 36,
+                            }
+                          }
+                          transition={null}
+                          width={36}
+                        />
+                      </View>
                     </View>
                   </View>
                 </View>
@@ -3663,40 +3677,54 @@ exports[`Story Snapshots: Avatar should match snapshot 1`] = `
                         }
                       }
                     >
-                      <ViewManagerAdapter_ExpoImage
-                        borderRadius={4}
-                        containerViewRef={"[React.ref]"}
-                        contentFit="contain"
-                        contentPosition={
-                          {
-                            "left": "50%",
-                            "top": "50%",
-                          }
-                        }
-                        height={36}
-                        nativeViewRef={"[React.ref]"}
-                        onError={[Function]}
-                        onLoad={[Function]}
-                        onLoadStart={[Function]}
-                        onProgress={[Function]}
-                        placeholder={[]}
-                        source={
+                      <View
+                        style={
                           [
                             {
-                              "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                              "transform": [
+                                {
+                                  "translateY": 0,
+                                },
+                              ],
                             },
                           ]
                         }
-                        style={
-                          {
-                            "borderRadius": 4,
-                            "height": 36,
-                            "width": 36,
+                      >
+                        <ViewManagerAdapter_ExpoImage
+                          borderRadius={4}
+                          containerViewRef={"[React.ref]"}
+                          contentFit="contain"
+                          contentPosition={
+                            {
+                              "left": "50%",
+                              "top": "50%",
+                            }
                           }
-                        }
-                        transition={null}
-                        width={36}
-                      />
+                          height={36}
+                          nativeViewRef={"[React.ref]"}
+                          onError={[Function]}
+                          onLoad={[Function]}
+                          onLoadStart={[Function]}
+                          onProgress={[Function]}
+                          placeholder={[]}
+                          source={
+                            [
+                              {
+                                "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                              },
+                            ]
+                          }
+                          style={
+                            {
+                              "borderRadius": 4,
+                              "height": 36,
+                              "width": 36,
+                            }
+                          }
+                          transition={null}
+                          width={36}
+                        />
+                      </View>
                     </View>
                   </View>
                 </View>
@@ -26636,102 +26664,144 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                               }
                             }
                           >
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
+                            <View
+                              style={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
+                                }
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
+                            <View
                               style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
-                                }
-                              }
-                              transition={null}
-                              width={30}
-                            />
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
+                                }
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
+                            <View
                               style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
-                                }
-                              }
-                              transition={null}
-                              width={30}
-                            />
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
-                              style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
                                 }
-                              }
-                              transition={null}
-                              width={30}
-                            />
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
                           </View>
                         </View>
                       </View>
@@ -27055,38 +27125,52 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                               }
                             }
                           >
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
+                            <View
+                              style={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
-                              style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
                                 }
-                              }
-                              transition={null}
-                              width={30}
-                            />
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
                           </View>
                         </View>
                       </View>
@@ -27429,38 +27513,52 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                             >
                               🤙
                             </Text>
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
+                            <View
+                              style={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
-                              style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
                                 }
-                              }
-                              transition={null}
-                              width={30}
-                            />
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
                           </View>
                         </View>
                       </View>
@@ -28919,102 +29017,144 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                               }
                             }
                           >
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
+                            <View
+                              style={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
+                                }
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
+                            <View
                               style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
-                                }
-                              }
-                              transition={null}
-                              width={30}
-                            />
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
+                                }
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
+                            <View
                               style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
-                                }
-                              }
-                              transition={null}
-                              width={30}
-                            />
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
-                              style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
                                 }
-                              }
-                              transition={null}
-                              width={30}
-                            />
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
                           </View>
                         </View>
                       </View>
@@ -29338,38 +29478,52 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                               }
                             }
                           >
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
+                            <View
+                              style={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
-                              style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
                                 }
-                              }
-                              transition={null}
-                              width={30}
-                            />
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
                           </View>
                         </View>
                       </View>
@@ -29712,38 +29866,52 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                             >
                               🤙
                             </Text>
-                            <ViewManagerAdapter_ExpoImage
-                              containerViewRef={"[React.ref]"}
-                              contentFit="contain"
-                              contentPosition={
-                                {
-                                  "left": "50%",
-                                  "top": "50%",
-                                }
-                              }
-                              height={30}
-                              nativeViewRef={"[React.ref]"}
-                              onError={[Function]}
-                              onLoad={[Function]}
-                              onLoadStart={[Function]}
-                              onProgress={[Function]}
-                              placeholder={[]}
-                              source={
+                            <View
+                              style={
                                 [
                                   {
-                                    "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
                                   },
                                 ]
                               }
-                              style={
-                                {
-                                  "height": 30,
-                                  "width": 30,
+                            >
+                              <ViewManagerAdapter_ExpoImage
+                                containerViewRef={"[React.ref]"}
+                                contentFit="contain"
+                                contentPosition={
+                                  {
+                                    "left": "50%",
+                                    "top": "50%",
+                                  }
                                 }
-                              }
-                              transition={null}
-                              width={30}
-                            />
+                                height={30}
+                                nativeViewRef={"[React.ref]"}
+                                onError={[Function]}
+                                onLoad={[Function]}
+                                onLoadStart={[Function]}
+                                onProgress={[Function]}
+                                placeholder={[]}
+                                source={
+                                  [
+                                    {
+                                      "uri": "https://open.rocket.chat/emoji-custom/react_rocket.png",
+                                    },
+                                  ]
+                                }
+                                style={
+                                  {
+                                    "height": 30,
+                                    "width": 30,
+                                  }
+                                }
+                                transition={null}
+                                width={30}
+                              />
+                            </View>
                           </View>
                         </View>
                       </View>
@@ -67305,38 +67473,52 @@ exports[`Story Snapshots: MessageWithReply should match snapshot 1`] = `
                                       >
                                         How are you? 
                                       </Text>
-                                      <ViewManagerAdapter_ExpoImage
-                                        containerViewRef={"[React.ref]"}
-                                        contentFit="contain"
-                                        contentPosition={
-                                          {
-                                            "left": "50%",
-                                            "top": "50%",
-                                          }
-                                        }
-                                        height={15}
-                                        nativeViewRef={"[React.ref]"}
-                                        onError={[Function]}
-                                        onLoad={[Function]}
-                                        onLoadStart={[Function]}
-                                        onProgress={[Function]}
-                                        placeholder={[]}
-                                        source={
+                                      <View
+                                        style={
                                           [
                                             {
-                                              "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                              "transform": [
+                                                {
+                                                  "translateY": 3,
+                                                },
+                                              ],
                                             },
                                           ]
                                         }
-                                        style={
-                                          {
-                                            "height": 15,
-                                            "width": 15,
+                                      >
+                                        <ViewManagerAdapter_ExpoImage
+                                          containerViewRef={"[React.ref]"}
+                                          contentFit="contain"
+                                          contentPosition={
+                                            {
+                                              "left": "50%",
+                                              "top": "50%",
+                                            }
                                           }
-                                        }
-                                        transition={null}
-                                        width={15}
-                                      />
+                                          height={15}
+                                          nativeViewRef={"[React.ref]"}
+                                          onError={[Function]}
+                                          onLoad={[Function]}
+                                          onLoadStart={[Function]}
+                                          onProgress={[Function]}
+                                          placeholder={[]}
+                                          source={
+                                            [
+                                              {
+                                                "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                              },
+                                            ]
+                                          }
+                                          style={
+                                            {
+                                              "height": 15,
+                                              "width": 15,
+                                            }
+                                          }
+                                          transition={null}
+                                          width={15}
+                                        />
+                                      </View>
                                     </Text>
                                   </Text>
                                 </View>
@@ -67496,38 +67678,52 @@ exports[`Story Snapshots: MessageWithReply should match snapshot 1`] = `
                                       >
                                         How are you? 
                                       </Text>
-                                      <ViewManagerAdapter_ExpoImage
-                                        containerViewRef={"[React.ref]"}
-                                        contentFit="contain"
-                                        contentPosition={
-                                          {
-                                            "left": "50%",
-                                            "top": "50%",
-                                          }
-                                        }
-                                        height={15}
-                                        nativeViewRef={"[React.ref]"}
-                                        onError={[Function]}
-                                        onLoad={[Function]}
-                                        onLoadStart={[Function]}
-                                        onProgress={[Function]}
-                                        placeholder={[]}
-                                        source={
+                                      <View
+                                        style={
                                           [
                                             {
-                                              "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                              "transform": [
+                                                {
+                                                  "translateY": 3,
+                                                },
+                                              ],
                                             },
                                           ]
                                         }
-                                        style={
-                                          {
-                                            "height": 15,
-                                            "width": 15,
+                                      >
+                                        <ViewManagerAdapter_ExpoImage
+                                          containerViewRef={"[React.ref]"}
+                                          contentFit="contain"
+                                          contentPosition={
+                                            {
+                                              "left": "50%",
+                                              "top": "50%",
+                                            }
                                           }
-                                        }
-                                        transition={null}
-                                        width={15}
-                                      />
+                                          height={15}
+                                          nativeViewRef={"[React.ref]"}
+                                          onError={[Function]}
+                                          onLoad={[Function]}
+                                          onLoadStart={[Function]}
+                                          onProgress={[Function]}
+                                          placeholder={[]}
+                                          source={
+                                            [
+                                              {
+                                                "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                              },
+                                            ]
+                                          }
+                                          style={
+                                            {
+                                              "height": 15,
+                                              "width": 15,
+                                            }
+                                          }
+                                          transition={null}
+                                          width={15}
+                                        />
+                                      </View>
                                     </Text>
                                   </Text>
                                 </View>
@@ -68829,38 +69025,52 @@ exports[`Story Snapshots: MessageWithReply should match snapshot 1`] = `
                                           >
                                             Are you seeing this mario 
                                           </Text>
-                                          <ViewManagerAdapter_ExpoImage
-                                            containerViewRef={"[React.ref]"}
-                                            contentFit="contain"
-                                            contentPosition={
-                                              {
-                                                "left": "50%",
-                                                "top": "50%",
-                                              }
-                                            }
-                                            height={15}
-                                            nativeViewRef={"[React.ref]"}
-                                            onError={[Function]}
-                                            onLoad={[Function]}
-                                            onLoadStart={[Function]}
-                                            onProgress={[Function]}
-                                            placeholder={[]}
-                                            source={
+                                          <View
+                                            style={
                                               [
                                                 {
-                                                  "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                                  "transform": [
+                                                    {
+                                                      "translateY": 3,
+                                                    },
+                                                  ],
                                                 },
                                               ]
                                             }
-                                            style={
-                                              {
-                                                "height": 15,
-                                                "width": 15,
+                                          >
+                                            <ViewManagerAdapter_ExpoImage
+                                              containerViewRef={"[React.ref]"}
+                                              contentFit="contain"
+                                              contentPosition={
+                                                {
+                                                  "left": "50%",
+                                                  "top": "50%",
+                                                }
                                               }
-                                            }
-                                            transition={null}
-                                            width={15}
-                                          />
+                                              height={15}
+                                              nativeViewRef={"[React.ref]"}
+                                              onError={[Function]}
+                                              onLoad={[Function]}
+                                              onLoadStart={[Function]}
+                                              onProgress={[Function]}
+                                              placeholder={[]}
+                                              source={
+                                                [
+                                                  {
+                                                    "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                                  },
+                                                ]
+                                              }
+                                              style={
+                                                {
+                                                  "height": 15,
+                                                  "width": 15,
+                                                }
+                                              }
+                                              transition={null}
+                                              width={15}
+                                            />
+                                          </View>
                                           <Text
                                             accessibilityLabel=" ?"
                                             style={
@@ -73677,38 +73887,52 @@ exports[`Story Snapshots: MessageWithReplyLargeFont should match snapshot 1`] = 
                                       >
                                         How are you? 
                                       </Text>
-                                      <ViewManagerAdapter_ExpoImage
-                                        containerViewRef={"[React.ref]"}
-                                        contentFit="contain"
-                                        contentPosition={
-                                          {
-                                            "left": "50%",
-                                            "top": "50%",
-                                          }
-                                        }
-                                        height={15}
-                                        nativeViewRef={"[React.ref]"}
-                                        onError={[Function]}
-                                        onLoad={[Function]}
-                                        onLoadStart={[Function]}
-                                        onProgress={[Function]}
-                                        placeholder={[]}
-                                        source={
+                                      <View
+                                        style={
                                           [
                                             {
-                                              "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                              "transform": [
+                                                {
+                                                  "translateY": 3,
+                                                },
+                                              ],
                                             },
                                           ]
                                         }
-                                        style={
-                                          {
-                                            "height": 15,
-                                            "width": 15,
+                                      >
+                                        <ViewManagerAdapter_ExpoImage
+                                          containerViewRef={"[React.ref]"}
+                                          contentFit="contain"
+                                          contentPosition={
+                                            {
+                                              "left": "50%",
+                                              "top": "50%",
+                                            }
                                           }
-                                        }
-                                        transition={null}
-                                        width={15}
-                                      />
+                                          height={15}
+                                          nativeViewRef={"[React.ref]"}
+                                          onError={[Function]}
+                                          onLoad={[Function]}
+                                          onLoadStart={[Function]}
+                                          onProgress={[Function]}
+                                          placeholder={[]}
+                                          source={
+                                            [
+                                              {
+                                                "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                              },
+                                            ]
+                                          }
+                                          style={
+                                            {
+                                              "height": 15,
+                                              "width": 15,
+                                            }
+                                          }
+                                          transition={null}
+                                          width={15}
+                                        />
+                                      </View>
                                     </Text>
                                   </Text>
                                 </View>
@@ -74955,38 +75179,52 @@ exports[`Story Snapshots: MessageWithReplyLargeFont should match snapshot 1`] = 
                                           >
                                             Are you seeing this mario 
                                           </Text>
-                                          <ViewManagerAdapter_ExpoImage
-                                            containerViewRef={"[React.ref]"}
-                                            contentFit="contain"
-                                            contentPosition={
-                                              {
-                                                "left": "50%",
-                                                "top": "50%",
-                                              }
-                                            }
-                                            height={15}
-                                            nativeViewRef={"[React.ref]"}
-                                            onError={[Function]}
-                                            onLoad={[Function]}
-                                            onLoadStart={[Function]}
-                                            onProgress={[Function]}
-                                            placeholder={[]}
-                                            source={
+                                          <View
+                                            style={
                                               [
                                                 {
-                                                  "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                                  "transform": [
+                                                    {
+                                                      "translateY": 3,
+                                                    },
+                                                  ],
                                                 },
                                               ]
                                             }
-                                            style={
-                                              {
-                                                "height": 15,
-                                                "width": 15,
+                                          >
+                                            <ViewManagerAdapter_ExpoImage
+                                              containerViewRef={"[React.ref]"}
+                                              contentFit="contain"
+                                              contentPosition={
+                                                {
+                                                  "left": "50%",
+                                                  "top": "50%",
+                                                }
                                               }
-                                            }
-                                            transition={null}
-                                            width={15}
-                                          />
+                                              height={15}
+                                              nativeViewRef={"[React.ref]"}
+                                              onError={[Function]}
+                                              onLoad={[Function]}
+                                              onLoadStart={[Function]}
+                                              onProgress={[Function]}
+                                              placeholder={[]}
+                                              source={
+                                                [
+                                                  {
+                                                    "uri": "https://open.rocket.chat/emoji-custom/marioparty.gif",
+                                                  },
+                                                ]
+                                              }
+                                              style={
+                                                {
+                                                  "height": 15,
+                                                  "width": 15,
+                                                }
+                                              }
+                                              transition={null}
+                                              width={15}
+                                            />
+                                          </View>
                                           <Text
                                             accessibilityLabel=" ?"
                                             style={
@@ -109205,38 +109443,52 @@ exports[`Story Snapshots: URL should match snapshot 1`] = `
                               >
                                 Message 
                               </Text>
-                              <ViewManagerAdapter_ExpoImage
-                                containerViewRef={"[React.ref]"}
-                                contentFit="contain"
-                                contentPosition={
-                                  {
-                                    "left": "50%",
-                                    "top": "50%",
-                                  }
-                                }
-                                height={15}
-                                nativeViewRef={"[React.ref]"}
-                                onError={[Function]}
-                                onLoad={[Function]}
-                                onLoadStart={[Function]}
-                                onProgress={[Function]}
-                                placeholder={[]}
-                                source={
+                              <View
+                                style={
                                   [
                                     {
-                                      "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                      "transform": [
+                                        {
+                                          "translateY": 3,
+                                        },
+                                      ],
                                     },
                                   ]
                                 }
-                                style={
-                                  {
-                                    "height": 15,
-                                    "width": 15,
+                              >
+                                <ViewManagerAdapter_ExpoImage
+                                  containerViewRef={"[React.ref]"}
+                                  contentFit="contain"
+                                  contentPosition={
+                                    {
+                                      "left": "50%",
+                                      "top": "50%",
+                                    }
                                   }
-                                }
-                                transition={null}
-                                width={15}
-                              />
+                                  height={15}
+                                  nativeViewRef={"[React.ref]"}
+                                  onError={[Function]}
+                                  onLoad={[Function]}
+                                  onLoadStart={[Function]}
+                                  onProgress={[Function]}
+                                  placeholder={[]}
+                                  source={
+                                    [
+                                      {
+                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                      },
+                                    ]
+                                  }
+                                  style={
+                                    {
+                                      "height": 15,
+                                      "width": 15,
+                                    }
+                                  }
+                                  transition={null}
+                                  width={15}
+                                />
+                              </View>
                             </Text>
                           </Text>
                         </View>
@@ -111905,38 +112157,52 @@ exports[`Story Snapshots: URLLargeFont should match snapshot 1`] = `
                               >
                                 Message 
                               </Text>
-                              <ViewManagerAdapter_ExpoImage
-                                containerViewRef={"[React.ref]"}
-                                contentFit="contain"
-                                contentPosition={
-                                  {
-                                    "left": "50%",
-                                    "top": "50%",
-                                  }
-                                }
-                                height={15}
-                                nativeViewRef={"[React.ref]"}
-                                onError={[Function]}
-                                onLoad={[Function]}
-                                onLoadStart={[Function]}
-                                onProgress={[Function]}
-                                placeholder={[]}
-                                source={
+                              <View
+                                style={
                                   [
                                     {
-                                      "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                      "transform": [
+                                        {
+                                          "translateY": 3,
+                                        },
+                                      ],
                                     },
                                   ]
                                 }
-                                style={
-                                  {
-                                    "height": 15,
-                                    "width": 15,
+                              >
+                                <ViewManagerAdapter_ExpoImage
+                                  containerViewRef={"[React.ref]"}
+                                  contentFit="contain"
+                                  contentPosition={
+                                    {
+                                      "left": "50%",
+                                      "top": "50%",
+                                    }
                                   }
-                                }
-                                transition={null}
-                                width={15}
-                              />
+                                  height={15}
+                                  nativeViewRef={"[React.ref]"}
+                                  onError={[Function]}
+                                  onLoad={[Function]}
+                                  onLoadStart={[Function]}
+                                  onProgress={[Function]}
+                                  placeholder={[]}
+                                  source={
+                                    [
+                                      {
+                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                      },
+                                    ]
+                                  }
+                                  style={
+                                    {
+                                      "height": 15,
+                                      "width": 15,
+                                    }
+                                  }
+                                  transition={null}
+                                  width={15}
+                                />
+                              </View>
                             </Text>
                           </Text>
                         </View>
@@ -114179,38 +114445,52 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -115881,38 +116161,52 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -116801,38 +117095,52 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -118964,38 +119272,52 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -119310,38 +119632,52 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -119535,38 +119871,52 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -120091,38 +120441,52 @@ exports[`Story Snapshots: WithFileLargeFont should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -120437,38 +120801,52 @@ exports[`Story Snapshots: WithFileLargeFont should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -121454,38 +121832,52 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -121707,38 +122099,52 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -122429,38 +122835,52 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                 >
                                   This is a description for Base64 Attachment 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -123525,38 +123945,52 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -124089,38 +124523,52 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                                 >
                                   This is a description for Base64 Attachment 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -124653,38 +125101,52 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -125303,38 +125765,52 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
@@ -125966,38 +126442,52 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                                 >
                                   This is a description 
                                 </Text>
-                                <ViewManagerAdapter_ExpoImage
-                                  containerViewRef={"[React.ref]"}
-                                  contentFit="contain"
-                                  contentPosition={
-                                    {
-                                      "left": "50%",
-                                      "top": "50%",
-                                    }
-                                  }
-                                  height={15}
-                                  nativeViewRef={"[React.ref]"}
-                                  onError={[Function]}
-                                  onLoad={[Function]}
-                                  onLoadStart={[Function]}
-                                  onProgress={[Function]}
-                                  placeholder={[]}
-                                  source={
+                                <View
+                                  style={
                                     [
                                       {
-                                        "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
                                       },
                                     ]
                                   }
-                                  style={
-                                    {
-                                      "height": 15,
-                                      "width": 15,
+                                >
+                                  <ViewManagerAdapter_ExpoImage
+                                    containerViewRef={"[React.ref]"}
+                                    contentFit="contain"
+                                    contentPosition={
+                                      {
+                                        "left": "50%",
+                                        "top": "50%",
+                                      }
                                     }
-                                  }
-                                  transition={null}
-                                  width={15}
-                                />
+                                    height={15}
+                                    nativeViewRef={"[React.ref]"}
+                                    onError={[Function]}
+                                    onLoad={[Function]}
+                                    onLoadStart={[Function]}
+                                    onProgress={[Function]}
+                                    placeholder={[]}
+                                    source={
+                                      [
+                                        {
+                                          "uri": "https://open.rocket.chat/emoji-custom/nyan_rocket.png",
+                                        },
+                                      ]
+                                    }
+                                    style={
+                                      {
+                                        "height": 15,
+                                        "width": 15,
+                                      }
+                                    }
+                                    transition={null}
+                                    width={15}
+                                  />
+                                </View>
                               </Text>
                             </Text>
                           </View>
