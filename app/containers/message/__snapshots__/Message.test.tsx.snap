@@ -32178,6 +32178,11 @@ exports[`Story Snapshots: Encrypted should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r24:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -36130,6 +36135,11 @@ exports[`Story Snapshots: EncryptedLargeFont should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r2d:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -48228,6 +48238,11 @@ exports[`Story Snapshots: Ignored should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r3d:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -48456,6 +48471,11 @@ exports[`Story Snapshots: IgnoredLargeFont should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r3e:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -76417,6 +76437,11 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5b:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -76753,6 +76778,11 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5c:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -77089,6 +77119,11 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5d:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -77425,6 +77460,11 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5e:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -77761,6 +77801,11 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5f:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -78097,6 +78142,11 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5g:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -79055,6 +79105,11 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5i:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -79391,6 +79446,11 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5j:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -79727,6 +79787,11 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5k:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -80063,6 +80128,11 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5l:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -80399,6 +80469,11 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5m:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -80735,6 +80810,11 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r5n:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -87170,6 +87250,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButton should m
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r61:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -87389,6 +87474,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButton should m
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r62:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -87608,6 +87698,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButton should m
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r63:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -88449,6 +88544,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButtonLargeFont
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r65:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -88668,6 +88768,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButtonLargeFont
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r66:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -88887,6 +88992,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButtonLargeFont
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r67:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -89212,6 +89322,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReply should ma
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r68:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -89431,6 +89546,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReply should ma
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r69:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -89650,6 +89770,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReply should ma
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r6a:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -89869,6 +89994,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReply should ma
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r6b:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -90194,6 +90324,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReplyLargeFont 
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r6c:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -90413,6 +90548,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReplyLargeFont 
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r6d:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -90632,6 +90772,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReplyLargeFont 
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r6e:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -90851,6 +90996,11 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadReplyLargeFont 
                 orderFocusType={0}
                 orderIndex={2}
                 orderKey=":r6f:"
+                style={
+                  {
+                    "flex": 1,
+                  }
+                }
               >
                 <View
                   style={
@@ -93838,6 +93988,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6m:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -94030,6 +94185,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6n:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -94222,6 +94382,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6o:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -94417,6 +94582,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6p:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -94609,6 +94779,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6q:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -94801,6 +94976,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6r:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -94993,6 +95173,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6s:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -95185,6 +95370,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6t:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -95377,6 +95567,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6u:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -95569,6 +95764,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r6v:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -95761,6 +95961,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r70:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -95953,6 +96158,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r71:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -96145,6 +96355,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r72:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -96337,6 +96552,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r73:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -96529,6 +96749,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r74:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -96721,6 +96946,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r75:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -96913,6 +97143,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r76:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -97105,6 +97340,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r77:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -97297,6 +97537,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r78:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -97489,6 +97734,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r79:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -97681,6 +97931,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7a:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -97873,6 +98128,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7b:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -98065,6 +98325,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7c:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -98257,6 +98522,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7d:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -98449,6 +98719,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7e:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -98641,6 +98916,11 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7f:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -98824,6 +99104,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7g:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -99016,6 +99301,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7h:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -99208,6 +99498,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7i:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -99403,6 +99698,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7j:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -99595,6 +99895,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7k:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -99787,6 +100092,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7l:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -99979,6 +100289,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7m:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -100171,6 +100486,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7n:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -100363,6 +100683,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7o:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -100555,6 +100880,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7p:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -100747,6 +101077,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7q:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -100939,6 +101274,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7r:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -101131,6 +101471,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7s:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -101323,6 +101668,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7t:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -101515,6 +101865,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7u:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -101707,6 +102062,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r7v:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -101899,6 +102259,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r80:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -102091,6 +102456,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r81:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -102283,6 +102653,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r82:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -102475,6 +102850,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r83:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -102667,6 +103047,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r84:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -102859,6 +103244,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r85:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -103051,6 +103441,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r86:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -103243,6 +103638,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r87:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -103435,6 +103835,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r88:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
@@ -103627,6 +104032,11 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
             orderFocusType={0}
             orderIndex={2}
             orderKey=":r89:"
+            style={
+              {
+                "flex": 1,
+              }
+            }
           >
             <View
               style={
