@@ -3818,15 +3818,13 @@ exports[`Story Snapshots: Avatar should match snapshot 1`] = `
                         >
                           <View
                             style={
-                              [
-                                {
-                                  "transform": [
-                                    {
-                                      "translateY": 0,
-                                    },
-                                  ],
-                                },
-                              ]
+                              {
+                                "transform": [
+                                  {
+                                    "translateY": 0,
+                                  },
+                                ],
+                              }
                             }
                           >
                             <ViewManagerAdapter_ExpoImage
@@ -4256,15 +4254,13 @@ exports[`Story Snapshots: Avatar should match snapshot 1`] = `
                         >
                           <View
                             style={
-                              [
-                                {
-                                  "transform": [
-                                    {
-                                      "translateY": 0,
-                                    },
-                                  ],
-                                },
-                              ]
+                              {
+                                "transform": [
+                                  {
+                                    "translateY": 0,
+                                  },
+                                ],
+                              }
                             }
                           >
                             <ViewManagerAdapter_ExpoImage
@@ -33323,15 +33319,13 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                             >
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -33369,15 +33363,13 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                               </View>
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -33415,15 +33407,13 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                               </View>
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -33850,15 +33840,13 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                             >
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -34304,15 +34292,13 @@ exports[`Story Snapshots: Emojis should match snapshot 1`] = `
                               </Text>
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -36072,15 +36058,13 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                             >
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -36118,15 +36102,13 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                               </View>
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -36164,15 +36146,13 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                               </View>
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -36599,15 +36579,13 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                             >
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -37053,15 +37031,13 @@ exports[`Story Snapshots: EmojisLargeFont should match snapshot 1`] = `
                               </Text>
                               <View
                                 style={
-                                  [
-                                    {
-                                      "transform": [
-                                        {
-                                          "translateY": 0,
-                                        },
-                                      ],
-                                    },
-                                  ]
+                                  {
+                                    "transform": [
+                                      {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
                                 }
                               >
                                 <ViewManagerAdapter_ExpoImage
@@ -82434,15 +82410,13 @@ exports[`Story Snapshots: MessageWithReply should match snapshot 1`] = `
                                         </Text>
                                         <View
                                           style={
-                                            [
-                                              {
-                                                "transform": [
-                                                  {
-                                                    "translateY": 3,
-                                                  },
-                                                ],
-                                              },
-                                            ]
+                                            {
+                                              "transform": [
+                                                {
+                                                  "translateY": 3,
+                                                },
+                                              ],
+                                            }
                                           }
                                         >
                                           <ViewManagerAdapter_ExpoImage
@@ -82644,15 +82618,13 @@ exports[`Story Snapshots: MessageWithReply should match snapshot 1`] = `
                                         </Text>
                                         <View
                                           style={
-                                            [
-                                              {
-                                                "transform": [
-                                                  {
-                                                    "translateY": 3,
-                                                  },
-                                                ],
-                                              },
-                                            ]
+                                            {
+                                              "transform": [
+                                                {
+                                                  "translateY": 3,
+                                                },
+                                              ],
+                                            }
                                           }
                                         >
                                           <ViewManagerAdapter_ExpoImage
@@ -84193,15 +84165,13 @@ exports[`Story Snapshots: MessageWithReply should match snapshot 1`] = `
                                             </Text>
                                             <View
                                               style={
-                                                [
-                                                  {
-                                                    "transform": [
-                                                      {
-                                                        "translateY": 3,
-                                                      },
-                                                    ],
-                                                  },
-                                                ]
+                                                {
+                                                  "transform": [
+                                                    {
+                                                      "translateY": 3,
+                                                    },
+                                                  ],
+                                                }
                                               }
                                             >
                                               <ViewManagerAdapter_ExpoImage
@@ -89575,15 +89545,13 @@ exports[`Story Snapshots: MessageWithReplyLargeFont should match snapshot 1`] = 
                                         </Text>
                                         <View
                                           style={
-                                            [
-                                              {
-                                                "transform": [
-                                                  {
-                                                    "translateY": 3,
-                                                  },
-                                                ],
-                                              },
-                                            ]
+                                            {
+                                              "transform": [
+                                                {
+                                                  "translateY": 3,
+                                                },
+                                              ],
+                                            }
                                           }
                                         >
                                           <ViewManagerAdapter_ExpoImage
@@ -91069,15 +91037,13 @@ exports[`Story Snapshots: MessageWithReplyLargeFont should match snapshot 1`] = 
                                             </Text>
                                             <View
                                               style={
-                                                [
-                                                  {
-                                                    "transform": [
-                                                      {
-                                                        "translateY": 3,
-                                                      },
-                                                    ],
-                                                  },
-                                                ]
+                                                {
+                                                  "transform": [
+                                                    {
+                                                      "translateY": 3,
+                                                    },
+                                                  ],
+                                                }
                                               }
                                             >
                                               <ViewManagerAdapter_ExpoImage
@@ -130835,15 +130801,13 @@ exports[`Story Snapshots: URL should match snapshot 1`] = `
                                 </Text>
                                 <View
                                   style={
-                                    [
-                                      {
-                                        "transform": [
-                                          {
-                                            "translateY": 3,
-                                          },
-                                        ],
-                                      },
-                                    ]
+                                    {
+                                      "transform": [
+                                        {
+                                          "translateY": 3,
+                                        },
+                                      ],
+                                    }
                                   }
                                 >
                                   <ViewManagerAdapter_ExpoImage
@@ -133997,15 +133961,13 @@ exports[`Story Snapshots: URLLargeFont should match snapshot 1`] = `
                                 </Text>
                                 <View
                                   style={
-                                    [
-                                      {
-                                        "transform": [
-                                          {
-                                            "translateY": 3,
-                                          },
-                                        ],
-                                      },
-                                    ]
+                                    {
+                                      "transform": [
+                                        {
+                                          "translateY": 3,
+                                        },
+                                      ],
+                                    }
                                   }
                                 >
                                   <ViewManagerAdapter_ExpoImage
@@ -136639,15 +136601,13 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -138528,15 +138488,13 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -139528,15 +139486,13 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -141359,15 +141315,13 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -142494,15 +142448,13 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -142873,15 +142825,13 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -143117,15 +143067,13 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -143758,15 +143706,13 @@ exports[`Story Snapshots: WithFileLargeFont should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -144137,15 +144083,13 @@ exports[`Story Snapshots: WithFileLargeFont should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -144643,15 +144587,13 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -145347,15 +145289,13 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -145615,15 +145555,13 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -147173,15 +147111,13 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -149535,15 +149471,13 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -150180,15 +150114,13 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
@@ -151812,15 +151744,13 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                                   </Text>
                                   <View
                                     style={
-                                      [
-                                        {
-                                          "transform": [
-                                            {
-                                              "translateY": 3,
-                                            },
-                                          ],
-                                        },
-                                      ]
+                                      {
+                                        "transform": [
+                                          {
+                                            "translateY": 3,
+                                          },
+                                        ],
+                                      }
                                     }
                                   >
                                     <ViewManagerAdapter_ExpoImage
