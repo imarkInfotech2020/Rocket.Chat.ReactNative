@@ -1,17 +1,20 @@
 import React from 'react';
-import { RectButton, type RectButtonProps } from 'react-native-gesture-handler';
 import {
 	View,
 	StyleSheet,
 	type ViewStyle,
 	type StyleProp,
 	type AccessibilityActionEvent,
-	type AccessibilityActionInfo
+	type AccessibilityActionInfo,
+	TouchableNativeFeedback,
+	TouchableOpacity,
+	type TouchableWithoutFeedbackProps
 } from 'react-native';
 
 import { useTheme } from '../theme';
+import { isIOS } from '../lib/methods/helpers';
 
-export interface ITouchProps extends RectButtonProps {
+export interface ITouchProps extends TouchableWithoutFeedbackProps {
 	children: React.ReactNode;
 	accessible?: boolean;
 	accessibilityLabel?: string;
@@ -20,15 +23,18 @@ export interface ITouchProps extends RectButtonProps {
 	onAccessibilityAction?: (event: AccessibilityActionEvent) => void;
 	testID?: string;
 	rectButtonStyle?: StyleProp<ViewStyle>;
-	disabled?: boolean;
+	enabled?: boolean;
+	android_rippleColor?: string;
 }
 
-const Touch = React.forwardRef<React.ElementRef<typeof RectButton>, ITouchProps>(
+const Component = isIOS ? TouchableOpacity : TouchableNativeFeedback;
+
+const Touchable = React.forwardRef<View, ITouchProps>(
 	(
 		{
 			children,
 			onPress,
-			underlayColor,
+			android_rippleColor,
 			accessible,
 			accessibilityLabel,
 			accessibilityHint,
@@ -36,7 +42,7 @@ const Touch = React.forwardRef<React.ElementRef<typeof RectButton>, ITouchProps>
 			onAccessibilityAction,
 			style,
 			rectButtonStyle,
-			disabled,
+			enabled = true,
 			...props
 		},
 		ref
@@ -72,16 +78,20 @@ const Touch = React.forwardRef<React.ElementRef<typeof RectButton>, ITouchProps>
 			marginStart,
 			marginTop
 		};
+		const androidProps = isIOS
+			? {}
+			: { background: TouchableNativeFeedback.Ripple(android_rippleColor ?? colors.surfaceNeutral, false) };
+		const touchableProps = isIOS ? { activeOpacity: 1 } : {};
+
 		return (
-			<RectButton
+			<Component
 				ref={ref}
 				onPress={onPress}
-				activeOpacity={1}
-				underlayColor={underlayColor || colors.surfaceNeutral}
-				rippleColor={colors.surfaceNeutral}
 				style={[rectButtonStyle, marginStyles, { backgroundColor, borderRadius }]}
-				{...props}
-				enabled={!disabled}>
+				disabled={!enabled}
+				{...touchableProps}
+				{...androidProps}
+				{...props}>
 				<View
 					accessible={accessible}
 					accessibilityRole={props.accessibilityRole}
@@ -92,9 +102,9 @@ const Touch = React.forwardRef<React.ElementRef<typeof RectButton>, ITouchProps>
 					style={viewStyle}>
 					{children}
 				</View>
-			</RectButton>
+			</Component>
 		);
 	}
 );
 
-export default Touch;
+export default Touchable;
