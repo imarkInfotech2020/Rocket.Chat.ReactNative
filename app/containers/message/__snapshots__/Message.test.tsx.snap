@@ -109169,42 +109169,56 @@ exports[`Story Snapshots: ShowButtonAsAttachment should match snapshot 1`] = `
                               </Text>
                             </Text>
                           </View>
-                          <RNGestureHandlerButton
+                          <View
                             accessibilityLabel="Text button"
                             accessibilityRole="button"
-                            collapsable={false}
-                            enabled={true}
-                            hitSlop={
+                            accessibilityState={
                               {
-                                "bottom": 0,
-                                "left": 0,
-                                "right": 0,
-                                "top": 0,
+                                "busy": undefined,
+                                "checked": undefined,
+                                "disabled": undefined,
+                                "expanded": undefined,
+                                "selected": undefined,
                               }
                             }
-                            rippleColor="transparent"
+                            accessibilityValue={
+                              {
+                                "max": undefined,
+                                "min": undefined,
+                                "now": undefined,
+                                "text": undefined,
+                              }
+                            }
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onFocus={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
                             style={
                               [
+                                {
+                                  "justifyContent": "center",
+                                  "paddingHorizontal": 16,
+                                  "paddingVertical": 14,
+                                },
+                                {
+                                  "borderRadius": 4,
+                                  "marginBottom": 12,
+                                },
+                                {
+                                  "backgroundColor": "#156FF5",
+                                },
                                 {},
-                                [
-                                  {
-                                    "justifyContent": "center",
-                                    "paddingHorizontal": 16,
-                                    "paddingVertical": 14,
-                                  },
-                                  {
-                                    "borderRadius": 4,
-                                    "marginBottom": 12,
-                                  },
-                                  {
-                                    "backgroundColor": "#156FF5",
-                                  },
-                                  {},
-                                  undefined,
-                                ],
+                                undefined,
                               ]
                             }
-                            testOnly_onPress={[Function]}
                           >
                             <Text
                               style={
@@ -109225,7 +109239,7 @@ exports[`Story Snapshots: ShowButtonAsAttachment should match snapshot 1`] = `
                             >
                               Text button
                             </Text>
-                          </RNGestureHandlerButton>
+                          </View>
                         </View>
                       </View>
                     </View>
@@ -109823,42 +109837,56 @@ exports[`Story Snapshots: ShowButtonAsAttachment should match snapshot 1`] = `
                               </Text>
                             </Text>
                           </View>
-                          <RNGestureHandlerButton
+                          <View
                             accessibilityLabel="Text button"
                             accessibilityRole="button"
-                            collapsable={false}
-                            enabled={true}
-                            hitSlop={
+                            accessibilityState={
                               {
-                                "bottom": 0,
-                                "left": 0,
-                                "right": 0,
-                                "top": 0,
+                                "busy": undefined,
+                                "checked": undefined,
+                                "disabled": undefined,
+                                "expanded": undefined,
+                                "selected": undefined,
                               }
                             }
-                            rippleColor="transparent"
+                            accessibilityValue={
+                              {
+                                "max": undefined,
+                                "min": undefined,
+                                "now": undefined,
+                                "text": undefined,
+                              }
+                            }
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onFocus={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
                             style={
                               [
+                                {
+                                  "justifyContent": "center",
+                                  "paddingHorizontal": 16,
+                                  "paddingVertical": 14,
+                                },
+                                {
+                                  "borderRadius": 4,
+                                  "marginBottom": 12,
+                                },
+                                {
+                                  "backgroundColor": "#156FF5",
+                                },
                                 {},
-                                [
-                                  {
-                                    "justifyContent": "center",
-                                    "paddingHorizontal": 16,
-                                    "paddingVertical": 14,
-                                  },
-                                  {
-                                    "borderRadius": 4,
-                                    "marginBottom": 12,
-                                  },
-                                  {
-                                    "backgroundColor": "#156FF5",
-                                  },
-                                  {},
-                                  undefined,
-                                ],
+                                undefined,
                               ]
                             }
-                            testOnly_onPress={[Function]}
                           >
                             <Text
                               style={
@@ -109879,7 +109907,7 @@ exports[`Story Snapshots: ShowButtonAsAttachment should match snapshot 1`] = `
                             >
                               Text button
                             </Text>
-                          </RNGestureHandlerButton>
+                          </View>
                         </View>
                       </View>
                     </View>
@@ -110019,7 +110047,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={363}
+                        handlerTag={357}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -110146,7 +110174,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={364}
+                          handlerTag={358}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -110325,42 +110353,56 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                               </Text>
                             </Text>
                           </View>
-                          <RNGestureHandlerButton
+                          <View
                             accessibilityLabel="Text button"
                             accessibilityRole="button"
-                            collapsable={false}
-                            enabled={true}
-                            hitSlop={
+                            accessibilityState={
                               {
-                                "bottom": 0,
-                                "left": 0,
-                                "right": 0,
-                                "top": 0,
+                                "busy": undefined,
+                                "checked": undefined,
+                                "disabled": undefined,
+                                "expanded": undefined,
+                                "selected": undefined,
                               }
                             }
-                            rippleColor="transparent"
+                            accessibilityValue={
+                              {
+                                "max": undefined,
+                                "min": undefined,
+                                "now": undefined,
+                                "text": undefined,
+                              }
+                            }
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onFocus={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
                             style={
                               [
+                                {
+                                  "justifyContent": "center",
+                                  "paddingHorizontal": 16,
+                                  "paddingVertical": 14,
+                                },
+                                {
+                                  "borderRadius": 4,
+                                  "marginBottom": 12,
+                                },
+                                {
+                                  "backgroundColor": "#156FF5",
+                                },
                                 {},
-                                [
-                                  {
-                                    "justifyContent": "center",
-                                    "paddingHorizontal": 16,
-                                    "paddingVertical": 14,
-                                  },
-                                  {
-                                    "borderRadius": 4,
-                                    "marginBottom": 12,
-                                  },
-                                  {
-                                    "backgroundColor": "#156FF5",
-                                  },
-                                  {},
-                                  undefined,
-                                ],
+                                undefined,
                               ]
                             }
-                            testOnly_onPress={[Function]}
                           >
                             <Text
                               style={
@@ -110381,7 +110423,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                             >
                               Text button
                             </Text>
-                          </RNGestureHandlerButton>
+                          </View>
                         </View>
                       </View>
                     </View>
@@ -110508,7 +110550,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={365}
+                        handlerTag={359}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -110635,7 +110677,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={366}
+                          handlerTag={360}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -110979,42 +111021,56 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                               </Text>
                             </Text>
                           </View>
-                          <RNGestureHandlerButton
+                          <View
                             accessibilityLabel="Text button"
                             accessibilityRole="button"
-                            collapsable={false}
-                            enabled={true}
-                            hitSlop={
+                            accessibilityState={
                               {
-                                "bottom": 0,
-                                "left": 0,
-                                "right": 0,
-                                "top": 0,
+                                "busy": undefined,
+                                "checked": undefined,
+                                "disabled": undefined,
+                                "expanded": undefined,
+                                "selected": undefined,
                               }
                             }
-                            rippleColor="transparent"
+                            accessibilityValue={
+                              {
+                                "max": undefined,
+                                "min": undefined,
+                                "now": undefined,
+                                "text": undefined,
+                              }
+                            }
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onFocus={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
                             style={
                               [
+                                {
+                                  "justifyContent": "center",
+                                  "paddingHorizontal": 16,
+                                  "paddingVertical": 14,
+                                },
+                                {
+                                  "borderRadius": 4,
+                                  "marginBottom": 12,
+                                },
+                                {
+                                  "backgroundColor": "#156FF5",
+                                },
                                 {},
-                                [
-                                  {
-                                    "justifyContent": "center",
-                                    "paddingHorizontal": 16,
-                                    "paddingVertical": 14,
-                                  },
-                                  {
-                                    "borderRadius": 4,
-                                    "marginBottom": 12,
-                                  },
-                                  {
-                                    "backgroundColor": "#156FF5",
-                                  },
-                                  {},
-                                  undefined,
-                                ],
+                                undefined,
                               ]
                             }
-                            testOnly_onPress={[Function]}
                           >
                             <Text
                               style={
@@ -111035,7 +111091,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                             >
                               Text button
                             </Text>
-                          </RNGestureHandlerButton>
+                          </View>
                         </View>
                       </View>
                     </View>
@@ -111175,7 +111231,7 @@ exports[`Story Snapshots: StaticAvatar should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={373}
+                        handlerTag={361}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -111302,7 +111358,7 @@ exports[`Story Snapshots: StaticAvatar should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={374}
+                          handlerTag={362}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -111616,7 +111672,7 @@ exports[`Story Snapshots: StaticAvatarLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={375}
+                        handlerTag={363}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -111743,7 +111799,7 @@ exports[`Story Snapshots: StaticAvatarLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={376}
+                          handlerTag={364}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -112002,7 +112058,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={377}
+                handlerTag={365}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -112224,7 +112280,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={378}
+                handlerTag={366}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -112446,7 +112502,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={379}
+                handlerTag={367}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -112671,7 +112727,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={380}
+                handlerTag={368}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -112893,7 +112949,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={381}
+                handlerTag={369}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -113115,7 +113171,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={382}
+                handlerTag={370}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -113337,7 +113393,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={383}
+                handlerTag={371}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -113559,7 +113615,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={384}
+                handlerTag={372}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -113781,7 +113837,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={385}
+                handlerTag={373}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -114003,7 +114059,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={386}
+                handlerTag={374}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -114225,7 +114281,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={387}
+                handlerTag={375}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -114447,7 +114503,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={388}
+                handlerTag={376}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -114669,7 +114725,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={389}
+                handlerTag={377}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -114891,7 +114947,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={390}
+                handlerTag={378}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -115113,7 +115169,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={391}
+                handlerTag={379}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -115335,7 +115391,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={392}
+                handlerTag={380}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -115557,7 +115613,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={393}
+                handlerTag={381}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -115779,7 +115835,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={394}
+                handlerTag={382}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -116001,7 +116057,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={395}
+                handlerTag={383}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -116223,7 +116279,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={396}
+                handlerTag={384}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -116445,7 +116501,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={397}
+                handlerTag={385}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -116667,7 +116723,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={398}
+                handlerTag={386}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -116889,7 +116945,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={399}
+                handlerTag={387}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -117111,7 +117167,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={400}
+                handlerTag={388}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -117333,7 +117389,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={401}
+                handlerTag={389}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -117555,7 +117611,7 @@ exports[`Story Snapshots: SystemMessages should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={402}
+                handlerTag={390}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -117768,7 +117824,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={403}
+                handlerTag={391}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -117990,7 +118046,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={404}
+                handlerTag={392}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -118212,7 +118268,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={405}
+                handlerTag={393}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -118437,7 +118493,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={406}
+                handlerTag={394}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -118659,7 +118715,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={407}
+                handlerTag={395}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -118881,7 +118937,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={408}
+                handlerTag={396}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -119103,7 +119159,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={409}
+                handlerTag={397}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -119325,7 +119381,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={410}
+                handlerTag={398}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -119547,7 +119603,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={411}
+                handlerTag={399}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -119769,7 +119825,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={412}
+                handlerTag={400}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -119991,7 +120047,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={413}
+                handlerTag={401}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -120213,7 +120269,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={414}
+                handlerTag={402}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -120435,7 +120491,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={415}
+                handlerTag={403}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -120657,7 +120713,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={416}
+                handlerTag={404}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -120879,7 +120935,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={417}
+                handlerTag={405}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -121101,7 +121157,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={418}
+                handlerTag={406}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -121323,7 +121379,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={419}
+                handlerTag={407}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -121545,7 +121601,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={420}
+                handlerTag={408}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -121767,7 +121823,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={421}
+                handlerTag={409}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -121989,7 +122045,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={422}
+                handlerTag={410}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -122211,7 +122267,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={423}
+                handlerTag={411}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -122433,7 +122489,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={424}
+                handlerTag={412}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -122655,7 +122711,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={425}
+                handlerTag={413}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -122877,7 +122933,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={426}
+                handlerTag={414}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -123099,7 +123155,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={427}
+                handlerTag={415}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -123321,7 +123377,7 @@ exports[`Story Snapshots: SystemMessagesLargeFont should match snapshot 1`] = `
                 collapsable={false}
                 delayLongPress={600}
                 enabled={true}
-                handlerTag={428}
+                handlerTag={416}
                 handlerType="NativeViewGestureHandler"
                 innerRef={null}
                 onActiveStateChange={[Function]}
@@ -123589,7 +123645,7 @@ exports[`Story Snapshots: Temp should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={429}
+                        handlerTag={417}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -123716,7 +123772,7 @@ exports[`Story Snapshots: Temp should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={430}
+                          handlerTag={418}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -124035,7 +124091,7 @@ exports[`Story Snapshots: TempLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={431}
+                        handlerTag={419}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -124162,7 +124218,7 @@ exports[`Story Snapshots: TempLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={432}
+                          handlerTag={420}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -124481,7 +124537,7 @@ exports[`Story Snapshots: ThumbnailFromServer should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={433}
+                        handlerTag={421}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -124608,7 +124664,7 @@ exports[`Story Snapshots: ThumbnailFromServer should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={434}
+                          handlerTag={422}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -125133,7 +125189,7 @@ exports[`Story Snapshots: ThumbnailFromServerLargeFont should match snapshot 1`]
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={435}
+                        handlerTag={423}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -125260,7 +125316,7 @@ exports[`Story Snapshots: ThumbnailFromServerLargeFont should match snapshot 1`]
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={436}
+                          handlerTag={424}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -125785,7 +125841,7 @@ exports[`Story Snapshots: TimeFormat should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={437}
+                        handlerTag={425}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -125912,7 +125968,7 @@ exports[`Story Snapshots: TimeFormat should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={438}
+                          handlerTag={426}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -126226,7 +126282,7 @@ exports[`Story Snapshots: TimeFormatLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={439}
+                        handlerTag={427}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -126353,7 +126409,7 @@ exports[`Story Snapshots: TimeFormatLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={440}
+                          handlerTag={428}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -126668,7 +126724,7 @@ exports[`Story Snapshots: Translated should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={441}
+                        handlerTag={429}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -126795,7 +126851,7 @@ exports[`Story Snapshots: Translated should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={442}
+                          handlerTag={430}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -127145,7 +127201,7 @@ exports[`Story Snapshots: TranslatedLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={443}
+                        handlerTag={431}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -127272,7 +127328,7 @@ exports[`Story Snapshots: TranslatedLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={444}
+                          handlerTag={432}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -127621,7 +127677,7 @@ exports[`Story Snapshots: TwoShortCustomFieldsWithMarkdown should match snapshot
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={445}
+                        handlerTag={433}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -127748,7 +127804,7 @@ exports[`Story Snapshots: TwoShortCustomFieldsWithMarkdown should match snapshot
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={446}
+                          handlerTag={434}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -128778,7 +128834,7 @@ exports[`Story Snapshots: TwoShortCustomFieldsWithMarkdownLargeFont should match
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={447}
+                        handlerTag={435}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -128905,7 +128961,7 @@ exports[`Story Snapshots: TwoShortCustomFieldsWithMarkdownLargeFont should match
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={448}
+                          handlerTag={436}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -129935,7 +129991,7 @@ exports[`Story Snapshots: URL should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={449}
+                        handlerTag={437}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -130062,7 +130118,7 @@ exports[`Story Snapshots: URL should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={450}
+                          handlerTag={438}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -130500,7 +130556,7 @@ exports[`Story Snapshots: URL should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={451}
+                        handlerTag={439}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -130627,7 +130683,7 @@ exports[`Story Snapshots: URL should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={452}
+                          handlerTag={440}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -131315,7 +131371,7 @@ exports[`Story Snapshots: URLImagePreview should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={453}
+                        handlerTag={441}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -131442,7 +131498,7 @@ exports[`Story Snapshots: URLImagePreview should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={454}
+                          handlerTag={442}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -131782,7 +131838,7 @@ exports[`Story Snapshots: URLImagePreview should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={455}
+                        handlerTag={443}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -131909,7 +131965,7 @@ exports[`Story Snapshots: URLImagePreview should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={456}
+                          handlerTag={444}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -132205,7 +132261,7 @@ exports[`Story Snapshots: URLImagePreviewLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={457}
+                        handlerTag={445}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -132332,7 +132388,7 @@ exports[`Story Snapshots: URLImagePreviewLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={458}
+                          handlerTag={446}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -132672,7 +132728,7 @@ exports[`Story Snapshots: URLImagePreviewLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={459}
+                        handlerTag={447}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -132799,7 +132855,7 @@ exports[`Story Snapshots: URLImagePreviewLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={460}
+                          handlerTag={448}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -133095,7 +133151,7 @@ exports[`Story Snapshots: URLLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={461}
+                        handlerTag={449}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -133222,7 +133278,7 @@ exports[`Story Snapshots: URLLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={462}
+                          handlerTag={450}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -133660,7 +133716,7 @@ exports[`Story Snapshots: URLLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={463}
+                        handlerTag={451}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -133787,7 +133843,7 @@ exports[`Story Snapshots: URLLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={464}
+                          handlerTag={452}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -134475,7 +134531,7 @@ exports[`Story Snapshots: WithAlias should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={465}
+                        handlerTag={453}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -134602,7 +134658,7 @@ exports[`Story Snapshots: WithAlias should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={466}
+                          handlerTag={454}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -134922,7 +134978,7 @@ exports[`Story Snapshots: WithAlias should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={467}
+                        handlerTag={455}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -135049,7 +135105,7 @@ exports[`Story Snapshots: WithAlias should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={468}
+                          handlerTag={456}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -135382,7 +135438,7 @@ exports[`Story Snapshots: WithAliasLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={469}
+                        handlerTag={457}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -135509,7 +135565,7 @@ exports[`Story Snapshots: WithAliasLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={470}
+                          handlerTag={458}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -135829,7 +135885,7 @@ exports[`Story Snapshots: WithAliasLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={471}
+                        handlerTag={459}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -135956,7 +136012,7 @@ exports[`Story Snapshots: WithAliasLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={472}
+                          handlerTag={460}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -136289,7 +136345,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={473}
+                        handlerTag={461}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -136416,7 +136472,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={474}
+                          handlerTag={462}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -136850,7 +136906,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={475}
+                                    handlerTag={463}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -137291,7 +137347,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={476}
+                                    handlerTag={464}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -137743,7 +137799,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={477}
+                                    handlerTag={465}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -137994,7 +138050,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={478}
+                                    handlerTag={466}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -138387,7 +138443,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={479}
+                                    handlerTag={467}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -138737,7 +138793,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={480}
+                                    handlerTag={468}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -138988,7 +139044,7 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={481}
+                                    handlerTag={469}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -139174,7 +139230,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={482}
+                        handlerTag={470}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -139301,7 +139357,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={483}
+                          handlerTag={471}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -139735,7 +139791,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={484}
+                                    handlerTag={472}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -140369,7 +140425,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={485}
+                                    handlerTag={473}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -140762,7 +140818,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={486}
+                                    handlerTag={474}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -141214,7 +141270,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={487}
+                                    handlerTag={475}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -141564,7 +141620,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={488}
+                                    handlerTag={476}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -141815,7 +141871,7 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   <View
                                     collapsable={false}
                                     enabled={false}
-                                    handlerTag={489}
+                                    handlerTag={477}
                                     handlerType="PanGestureHandler"
                                     hitSlop={
                                       {
@@ -142001,7 +142057,7 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={490}
+                        handlerTag={478}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -142128,7 +142184,7 @@ exports[`Story Snapshots: WithFile should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={491}
+                          handlerTag={479}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -143259,7 +143315,7 @@ exports[`Story Snapshots: WithFileLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={492}
+                        handlerTag={480}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -143386,7 +143442,7 @@ exports[`Story Snapshots: WithFileLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={493}
+                          handlerTag={481}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -144275,7 +144331,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={494}
+                        handlerTag={482}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -144402,7 +144458,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={495}
+                          handlerTag={483}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -144918,7 +144974,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={496}
+                        handlerTag={484}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -145045,7 +145101,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={497}
+                          handlerTag={485}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -146045,7 +146101,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={498}
+                        handlerTag={486}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -146172,7 +146228,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={499}
+                          handlerTag={487}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -146799,7 +146855,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={500}
+                        handlerTag={488}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -146926,7 +146982,7 @@ exports[`Story Snapshots: WithImage should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={501}
+                          handlerTag={489}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -147442,7 +147498,7 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={502}
+                        handlerTag={490}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -147569,7 +147625,7 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={503}
+                          handlerTag={491}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -148405,7 +148461,7 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={504}
+                        handlerTag={492}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -148532,7 +148588,7 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={505}
+                          handlerTag={493}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -149159,7 +149215,7 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={506}
+                        handlerTag={494}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -149286,7 +149342,7 @@ exports[`Story Snapshots: WithImageLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={507}
+                          handlerTag={495}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -149802,7 +149858,7 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={508}
+                        handlerTag={496}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -149929,7 +149985,7 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={509}
+                          handlerTag={497}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -150729,7 +150785,7 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={510}
+                        handlerTag={498}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -150856,7 +150912,7 @@ exports[`Story Snapshots: WithVideo should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={511}
+                          handlerTag={499}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -151432,7 +151488,7 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={512}
+                        handlerTag={500}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -151559,7 +151615,7 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={513}
+                          handlerTag={501}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -152035,7 +152091,7 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={514}
+                        handlerTag={502}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -152162,7 +152218,7 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={515}
+                          handlerTag={503}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
@@ -152539,7 +152595,7 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                         collapsable={false}
                         delayLongPress={600}
                         enabled={true}
-                        handlerTag={516}
+                        handlerTag={504}
                         handlerType="NativeViewGestureHandler"
                         innerRef={null}
                         onActiveStateChange={[Function]}
@@ -152666,7 +152722,7 @@ exports[`Story Snapshots: WithVideoLargeFont should match snapshot 1`] = `
                           collapsable={false}
                           delayLongPress={600}
                           enabled={true}
-                          handlerTag={517}
+                          handlerTag={505}
                           handlerType="NativeViewGestureHandler"
                           innerRef={null}
                           onActiveStateChange={[Function]}
