@@ -136855,12 +136855,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -137286,12 +137280,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -137728,12 +137716,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -137969,12 +137951,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -138352,12 +138328,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -138692,12 +138662,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -138933,12 +138897,6 @@ exports[`Story Snapshots: WithAudio should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -139670,12 +139628,6 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -140294,12 +140246,6 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -140677,12 +140623,6 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -141119,12 +141059,6 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -141459,12 +141393,6 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
@@ -141700,12 +141628,6 @@ exports[`Story Snapshots: WithAudioLargeFont should match snapshot 1`] = `
                                   </View>
                                   <View
                                     collapsable={false}
-<<<<<<< HEAD
-                                    enabled={false}
-                                    handlerTag={-1}
-                                    handlerType="PanGestureHandler"
-=======
->>>>>>> reanimated-v4
                                     hitSlop={
                                       {
                                         "bottom": 12,
