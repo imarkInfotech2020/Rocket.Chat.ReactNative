@@ -109183,7 +109183,7 @@ exports[`Story Snapshots: ShowButtonAsAttachment should match snapshot 1`] = `
                             onGestureHandlerEvent={[Function]}
                             onGestureHandlerStateChange={[Function]}
                             onPress={[Function]}
-                            rippleColor="rgba(255, 255, 255, 0.2)"
+                            rippleColor="transparent"
                             style={
                               [
                                 {
@@ -109851,7 +109851,7 @@ exports[`Story Snapshots: ShowButtonAsAttachment should match snapshot 1`] = `
                             onGestureHandlerEvent={[Function]}
                             onGestureHandlerStateChange={[Function]}
                             onPress={[Function]}
-                            rippleColor="rgba(255, 255, 255, 0.2)"
+                            rippleColor="transparent"
                             style={
                               [
                                 {
@@ -110367,7 +110367,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                             onGestureHandlerEvent={[Function]}
                             onGestureHandlerStateChange={[Function]}
                             onPress={[Function]}
-                            rippleColor="rgba(255, 255, 255, 0.2)"
+                            rippleColor="transparent"
                             style={
                               [
                                 {
@@ -111035,7 +111035,7 @@ exports[`Story Snapshots: ShowButtonAsAttachmentLargeFont should match snapshot 
                             onGestureHandlerEvent={[Function]}
                             onGestureHandlerStateChange={[Function]}
                             onPress={[Function]}
-                            rippleColor="rgba(255, 255, 255, 0.2)"
+                            rippleColor="transparent"
                             style={
                               [
                                 {
