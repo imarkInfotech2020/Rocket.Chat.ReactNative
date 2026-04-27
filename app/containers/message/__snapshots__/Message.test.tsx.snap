@@ -38829,13 +38829,15 @@ exports[`Story Snapshots: Encrypted should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel=":joy:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -38930,13 +38932,15 @@ exports[`Story Snapshots: Encrypted should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":marioparty:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -39053,13 +39057,15 @@ exports[`Story Snapshots: Encrypted should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":thinking:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -39154,6 +39160,8 @@ exports[`Story Snapshots: Encrypted should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel="Add reaction"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
@@ -43298,13 +43306,15 @@ exports[`Story Snapshots: EncryptedLargeFont should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel=":joy:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -43399,13 +43409,15 @@ exports[`Story Snapshots: EncryptedLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":marioparty:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -43522,13 +43534,15 @@ exports[`Story Snapshots: EncryptedLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":thinking:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -43623,6 +43637,8 @@ exports[`Story Snapshots: EncryptedLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel="Add reaction"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
@@ -91782,6 +91798,37 @@ exports[`Story Snapshots: MessageWithThread should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel="View thread"
+                              accessibilityRole="button"
+                              accessibilityState={
+                                {
+                                  "busy": undefined,
+                                  "checked": undefined,
+                                  "disabled": undefined,
+                                  "expanded": undefined,
+                                  "selected": undefined,
+                                }
+                              }
+                              accessibilityValue={
+                                {
+                                  "max": undefined,
+                                  "min": undefined,
+                                  "now": undefined,
+                                  "text": undefined,
+                                }
+                              }
+                              accessible={true}
+                              collapsable={false}
+                              focusable={true}
+                              onBlur={[Function]}
+                              onClick={[Function]}
+                              onFocus={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
                               style={
                                 [
                                   {
@@ -94910,6 +94957,37 @@ exports[`Story Snapshots: MessageWithThreadLargeFont should match snapshot 1`] =
                             }
                           >
                             <View
+                              accessibilityLabel="View thread"
+                              accessibilityRole="button"
+                              accessibilityState={
+                                {
+                                  "busy": undefined,
+                                  "checked": undefined,
+                                  "disabled": undefined,
+                                  "expanded": undefined,
+                                  "selected": undefined,
+                                }
+                              }
+                              accessibilityValue={
+                                {
+                                  "max": undefined,
+                                  "min": undefined,
+                                  "now": undefined,
+                                  "text": undefined,
+                                }
+                              }
+                              accessible={true}
+                              collapsable={false}
+                              focusable={true}
+                              onBlur={[Function]}
+                              onClick={[Function]}
+                              onFocus={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
                               style={
                                 [
                                   {
@@ -102614,13 +102692,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel=":joy:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -102715,13 +102795,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":marioparty:, 99"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": false,
                                 }
                               }
                               accessibilityValue={
@@ -102838,13 +102920,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":thinking:, 999"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": false,
                                 }
                               }
                               accessibilityValue={
@@ -102939,13 +103023,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":thinking:, 9999"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": false,
                                 }
                               }
                               accessibilityValue={
@@ -103040,6 +103126,8 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel="Add reaction"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
@@ -103574,13 +103662,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel=":marioparty:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -103697,13 +103787,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":react_rocket:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -103820,13 +103912,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":nyan_rocket:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -103943,13 +104037,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":heart:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -104044,13 +104140,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":dog:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -104145,13 +104243,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":grinning:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -104246,13 +104346,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":grimacing:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -104347,13 +104449,15 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":grin:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -104448,6 +104552,8 @@ exports[`Story Snapshots: Reactions should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel="Add reaction"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
@@ -104995,13 +105101,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel=":joy:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -105096,13 +105204,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":marioparty:, 99"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": false,
                                 }
                               }
                               accessibilityValue={
@@ -105219,13 +105329,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":thinking:, 999"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": false,
                                 }
                               }
                               accessibilityValue={
@@ -105320,13 +105432,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":thinking:, 9999"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": false,
                                 }
                               }
                               accessibilityValue={
@@ -105421,6 +105535,8 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel="Add reaction"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
@@ -105955,13 +106071,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                             }
                           >
                             <View
+                              accessibilityLabel=":marioparty:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106078,13 +106196,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":react_rocket:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106201,13 +106321,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":nyan_rocket:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106324,13 +106446,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":heart:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106425,13 +106549,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":dog:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106526,13 +106652,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":grinning:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106627,13 +106755,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":grimacing:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106728,13 +106858,15 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel=":grin:, 1"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
                                   "checked": undefined,
                                   "disabled": undefined,
                                   "expanded": undefined,
-                                  "selected": undefined,
+                                  "selected": true,
                                 }
                               }
                               accessibilityValue={
@@ -106829,6 +106961,8 @@ exports[`Story Snapshots: ReactionsLargeFont should match snapshot 1`] = `
                               </View>
                             </View>
                             <View
+                              accessibilityLabel="Add reaction"
+                              accessibilityRole="button"
                               accessibilityState={
                                 {
                                   "busy": undefined,
@@ -107375,6 +107509,37 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButton should m
                             }
                           >
                             <View
+                              accessibilityLabel="View thread"
+                              accessibilityRole="button"
+                              accessibilityState={
+                                {
+                                  "busy": undefined,
+                                  "checked": undefined,
+                                  "disabled": undefined,
+                                  "expanded": undefined,
+                                  "selected": undefined,
+                                }
+                              }
+                              accessibilityValue={
+                                {
+                                  "max": undefined,
+                                  "min": undefined,
+                                  "now": undefined,
+                                  "text": undefined,
+                                }
+                              }
+                              accessible={true}
+                              collapsable={false}
+                              focusable={true}
+                              onBlur={[Function]}
+                              onClick={[Function]}
+                              onFocus={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
                               style={
                                 [
                                   {
@@ -108943,6 +109108,37 @@ exports[`Story Snapshots: SequentialThreadMessagesFollowingThreadButtonLargeFont
                             }
                           >
                             <View
+                              accessibilityLabel="View thread"
+                              accessibilityRole="button"
+                              accessibilityState={
+                                {
+                                  "busy": undefined,
+                                  "checked": undefined,
+                                  "disabled": undefined,
+                                  "expanded": undefined,
+                                  "selected": undefined,
+                                }
+                              }
+                              accessibilityValue={
+                                {
+                                  "max": undefined,
+                                  "min": undefined,
+                                  "now": undefined,
+                                  "text": undefined,
+                                }
+                              }
+                              accessible={true}
+                              collapsable={false}
+                              focusable={true}
+                              onBlur={[Function]}
+                              onClick={[Function]}
+                              onFocus={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
                               style={
                                 [
                                   {
